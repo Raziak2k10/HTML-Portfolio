@@ -1,0 +1,13 @@
+.ContentBar {
+    display: flex;
+    background-color: goldenrod;
+    color: black;
+}
+
+.BarButton {
+    background-color: grey;
+    color: black;
+    border: 20px dashed black;
+    height: 120px;
+    flex: 1;
+}
